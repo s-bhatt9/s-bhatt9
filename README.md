@@ -31,7 +31,7 @@ src="https://img.shields.io/twitter/follow/sahilbhatt34?logo=twitter&style=for-t
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<b>My GitHub Stats</a>
 
 <a href="http://www.github.com/s-bhatt9"><img src="https://github-readme-stats.vercel.app/api?username=s-bhatt9&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0f172a&bg_color=000000&hide_border=true&show_icons=true" alt="s-bhatt9's GitHub stats" /></a>
 
