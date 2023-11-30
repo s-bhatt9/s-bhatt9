@@ -9,12 +9,12 @@ i am a developer who loves to react & show the creativity to whole world.
 * 🌍  I'm based in mumbai
 * ✉️  You can contact me at [bhattsahil890@gmail.com](mailto:bhattsahil890@gmail.com)
 * 🧠  I'm learning problem solving activity & skills
-* 🤝  I'm open to collaborating on projects & problem solving activity
+* 🤝  I'm open to collaborating on projects
 * ⚡  i am secretly Zeus , but don't tell to enyone
 
 <a href="https://www.github.com/s-bhatt9" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/s-bhatt9?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a><a href="https://www.x.com/sahilbhatt34" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/sahilbhatt34?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
+src="https://img.shields.io/github/followers/s-bhatt9?logo=github&style=for-the-badge&color=0f172a&labelColor=000000" /></a><a href="https://www.x.com/sahilbhatt34" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/sahilbhatt34?logo=twitter&style=for-the-badge&color=0f172a&labelColor=000000"
 /></a>
 
 ### Skills
@@ -33,10 +33,10 @@ src="https://img.shields.io/twitter/follow/sahilbhatt34?logo=twitter&style=for-t
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/s-bhatt9"><img src="https://github-readme-stats.vercel.app/api?username=s-bhatt9&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="s-bhatt9's GitHub stats" /></a>
+<a href="http://www.github.com/s-bhatt9"><img src="https://github-readme-stats.vercel.app/api?username=s-bhatt9&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0f172a&bg_color=000000&hide_border=true&show_icons=true" alt="s-bhatt9's GitHub stats" /></a>
 
 <a href="http://www.github.com/s-bhatt9"><img src="https://github-readme-streak-stats.herokuapp.com/?user=s-bhatt9&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/s-bhatt9"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=s-bhatt9&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/s-bhatt9"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=s-bhatt9&bg_color=000000&color=ffffff&line=0f172a&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/s-bhatt9" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-bhatt9&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/s-bhatt9" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-bhatt9&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0f172a&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
