@@ -9,7 +9,7 @@ i am a developer who loves to react & show the creativity to whole world.
 * 🌍  I'm based in mumbai
 * ✉️  You can contact me at [bhattsahil890@gmail.com](mailto:bhattsahil890@gmail.com)
 * 🧠  I'm learning problem solving activity & skills
-* 🤝  I'm open to collaborating on projects
+* 🤝  I'm open to collaborating on projects & probelm solving activity 
 * ⚡  i am secretly Zeus , but don't tell to enyone
 
 <a href="https://www.github.com/s-bhatt9" target="_blank" rel="noreferrer"><img
